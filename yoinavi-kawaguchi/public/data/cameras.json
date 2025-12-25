@@ -1,0 +1,522 @@
+[
+  {
+    "id": "camera_1",
+    "address": "並木３丁目４番１５号前",
+    "lat": 35.818513,
+    "lon": 139.707932,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_2",
+    "address": "並木３丁目９番７号前",
+    "lat": 35.817344,
+    "lon": 139.705421,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_3",
+    "address": "並木３丁目２番１６号北側",
+    "lat": 35.81694,
+    "lon": 139.706154,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_4",
+    "address": "並木２丁目１４番１号前",
+    "lat": 35.816566,
+    "lon": 139.707139,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_5",
+    "address": "並木３丁目１２番６号前",
+    "lat": 35.816429,
+    "lon": 139.704039,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_6",
+    "address": "並木２丁目１番１５号北東角",
+    "lat": 35.815909,
+    "lon": 139.705418,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_7",
+    "address": "並木２丁目２５番１０号前",
+    "lat": 35.815203,
+    "lon": 139.706717,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_8",
+    "address": "川口市並木2-27",
+    "lat": 35.814839,
+    "lon": 139.70823,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_9",
+    "address": "川口市並木2-10",
+    "lat": 35.815724,
+    "lon": 139.708395,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_10",
+    "address": "川口市並木2-26",
+    "lat": 35.815248,
+    "lon": 139.707332,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_11",
+    "address": "並木３丁目１２番６号前",
+    "lat": 35.816429,
+    "lon": 139.704039,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_12",
+    "address": "並木２丁目２０番東口ロータリー中央その２",
+    "lat": 35.815588,
+    "lon": 139.70462,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_13",
+    "address": "並木２丁目２０番東口ロータリー中央その１",
+    "lat": 35.815588,
+    "lon": 139.70462,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_14",
+    "address": "並木２丁目２２番１号西側",
+    "lat": 35.815226,
+    "lon": 139.705742,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_15",
+    "address": "並木２丁目２４番１８号南西側",
+    "lat": 35.814917,
+    "lon": 139.706303,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_16",
+    "address": "西川口１丁目１番西川口交番前",
+    "lat": 35.815767,
+    "lon": 139.703835,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_17",
+    "address": "西川口１丁目２５番３号西側角",
+    "lat": 35.814129,
+    "lon": 139.704241,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_18",
+    "address": "西川口１丁目４番西川口陸橋上",
+    "lat": 35.81426,
+    "lon": 139.7047,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_19",
+    "address": "西川口１丁目４番西川口自転車駐車場内",
+    "lat": 35.815317,
+    "lon": 139.705138,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_20",
+    "address": "川口市西川口4-13",
+    "lat": 35.809629,
+    "lon": 139.708849,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_21",
+    "address": "川口市西川口4-16",
+    "lat": 35.809313,
+    "lon": 139.709487,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_22",
+    "address": "川口市青木5-4",
+    "lat": 35.817999,
+    "lon": 139.720579,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_23",
+    "address": "川口市青木5-2-5",
+    "lat": 35.817093,
+    "lon": 139.720546,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_24",
+    "address": "南鳩ヶ谷６丁目６番１８号前",
+    "lat": 35.818437,
+    "lon": 139.735026,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_25",
+    "address": "南鳩ヶ谷５丁目１２番南鳩ヶ谷駅第１自転車駐車場内",
+    "lat": 35.817163,
+    "lon": 139.734707,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_26",
+    "address": "南鳩ヶ谷５丁目１６番２２号付近",
+    "lat": 35.81669,
+    "lon": 139.733522,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_27",
+    "address": "南鳩ヶ谷４丁目２番ロータリー西側その２",
+    "lat": 35.816214,
+    "lon": 139.736622,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_28",
+    "address": "南鳩ヶ谷４丁目２番ロータリー西側その１",
+    "lat": 35.816214,
+    "lon": 139.736622,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_29",
+    "address": "南鳩ヶ谷４丁目１番２２号前その１",
+    "lat": 35.816724,
+    "lon": 139.737401,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_30",
+    "address": "南鳩ヶ谷４丁目１番２２号前その２",
+    "lat": 35.816724,
+    "lon": 139.737401,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_31",
+    "address": "南鳩ヶ谷４丁目２番ロータリー中央その２",
+    "lat": 35.816214,
+    "lon": 139.736622,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_32",
+    "address": "南鳩ヶ谷４丁目２番ロータリー中央その１",
+    "lat": 35.816214,
+    "lon": 139.736622,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_33",
+    "address": "南鳩ヶ谷５丁目１７番１２号前",
+    "lat": 35.815909,
+    "lon": 139.73319,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_34",
+    "address": "川口市朝日4-1",
+    "lat": 35.811954,
+    "lon": 139.739297,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_35",
+    "address": "川口市青木2-6",
+    "lat": 35.809272,
+    "lon": 139.725767,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_36",
+    "address": "川口市東本郷540",
+    "lat": 35.821597,
+    "lon": 139.764886,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_37",
+    "address": "川口市本蓮1-20",
+    "lat": 35.821322,
+    "lon": 139.762173,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_38",
+    "address": "川口市東領家3-15",
+    "lat": 35.794433,
+    "lon": 139.755146,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_39",
+    "address": "川口市領家2-29",
+    "lat": 35.795327,
+    "lon": 139.745245,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_40",
+    "address": "川口市幸町2-16",
+    "lat": 35.805945,
+    "lon": 139.72034,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_41",
+    "address": "川口市川口4-11",
+    "lat": 35.804898,
+    "lon": 139.714354,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_42",
+    "address": "栄町３丁目１０番４号前",
+    "lat": 35.803555,
+    "lon": 139.719382,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_43",
+    "address": "栄町３丁目４番１８号南側",
+    "lat": 35.803901,
+    "lon": 139.718105,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_44",
+    "address": "栄町３丁目６番東口ロータリー出口",
+    "lat": 35.802286,
+    "lon": 139.718185,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_45",
+    "address": "栄町３丁目６番ペデストリアンデッキ上北側",
+    "lat": 35.802286,
+    "lon": 139.718185,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_46",
+    "address": "栄町３丁目６番タクシープール前",
+    "lat": 35.802286,
+    "lon": 139.718185,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_47",
+    "address": "本町４丁目２番１２号前",
+    "lat": 35.835998,
+    "lon": 139.729112,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_48",
+    "address": "栄町３丁目７番７２号南側",
+    "lat": 35.802281,
+    "lon": 139.719063,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_49",
+    "address": "川口１丁目１番キュポ・ラ広場内その２",
+    "lat": 35.801252,
+    "lon": 139.718565,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_50",
+    "address": "川口１丁目１番キュポ・ラ広場内その1",
+    "lat": 35.801252,
+    "lon": 139.718565,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_52",
+    "address": "川口３丁目１番川口西公園内",
+    "lat": 35.801619,
+    "lon": 139.716349,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_53",
+    "address": "川口３丁目１番川口自転車駐車場出入口東側",
+    "lat": 35.801619,
+    "lon": 139.716349,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_54",
+    "address": "川口３丁目１番ペデストリアンデッキ上北西角",
+    "lat": 35.801619,
+    "lon": 139.716349,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_55",
+    "address": "川口３丁目１番川口西公園内",
+    "lat": 35.801619,
+    "lon": 139.716349,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_56",
+    "address": "川口３丁目１番ペデストリアンデッキ上南西角",
+    "lat": 35.801619,
+    "lon": 139.716349,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_57",
+    "address": "川口３丁目１番川口総合文化センター北東角",
+    "lat": 35.801619,
+    "lon": 139.716349,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_58",
+    "address": "飯塚１丁目３番１号前",
+    "lat": 35.800009,
+    "lon": 139.715551,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_59",
+    "address": "本町２丁目１２番北側",
+    "lat": 35.799591,
+    "lon": 139.727144,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_60",
+    "address": "元郷１丁目２番さくら橋際",
+    "lat": 35.801511,
+    "lon": 139.730603,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_61",
+    "address": "元郷１丁目２番芝川公園北側",
+    "lat": 35.801511,
+    "lon": 139.730603,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_62",
+    "address": "元郷１丁目２番ロータリー内",
+    "lat": 35.801511,
+    "lon": 139.730603,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_63",
+    "address": "元郷１丁目２番芝川公園東側",
+    "lat": 35.801511,
+    "lon": 139.730603,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_64",
+    "address": "元郷１丁目３番４号前",
+    "lat": 35.799739,
+    "lon": 139.730556,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_65",
+    "address": "元郷１丁目１番５号前",
+    "lat": 35.798525,
+    "lon": 139.729604,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  },
+  {
+    "id": "camera_66",
+    "address": "元郷１丁目９号２１号前",
+    "lat": 35.798722,
+    "lon": 139.730875,
+    "effectiveRadius": 80,
+    "decayConstant": 30
+  }
+]

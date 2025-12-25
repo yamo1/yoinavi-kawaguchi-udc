@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Claude
+.claude/
+
+# Node.js
+node_modules/
+.next/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env*.local
+
+# Raw data (too large for GitHub, processed data is in yoinavi-kawaguchi/public/data/)
+/data/

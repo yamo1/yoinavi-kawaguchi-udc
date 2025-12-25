@@ -1,0 +1,854 @@
+[
+  {
+    "id": "node_1420171710",
+    "type": "koban",
+    "name": "川口警察署 並木交番",
+    "lat": 35.8167747,
+    "lon": 139.7061065
+  },
+  {
+    "id": "node_1420171711",
+    "type": "koban",
+    "name": "川口警察署 川口元郷駅前交番",
+    "lat": 35.800642,
+    "lon": 139.730204
+  },
+  {
+    "id": "node_1420171716",
+    "type": "koban",
+    "name": "川口警察署西川口駅前交番",
+    "lat": 35.815777,
+    "lon": 139.703841
+  },
+  {
+    "id": "node_1420171717",
+    "type": "koban",
+    "name": "川口警察署青木交番",
+    "lat": 35.81658,
+    "lon": 139.723349
+  },
+  {
+    "id": "node_1420179846",
+    "type": "koban",
+    "name": "武南警察署 江戸袋交番",
+    "lat": 35.8179983,
+    "lon": 139.7555155
+  },
+  {
+    "id": "node_1420193095",
+    "type": "koban",
+    "name": "川口警察署",
+    "lat": 35.8176466,
+    "lon": 139.7099426
+  },
+  {
+    "id": "node_1420193105",
+    "type": "koban",
+    "name": "川口警察署 領家交番",
+    "lat": 35.7920755,
+    "lon": 139.7498393
+  },
+  {
+    "id": "node_1640176211",
+    "type": "station",
+    "name": "浮間舟渡",
+    "lat": 35.7911796,
+    "lon": 139.6915101
+  },
+  {
+    "id": "node_1785869533",
+    "type": "convenience_store",
+    "name": "ローソン",
+    "lat": 35.7918402,
+    "lon": 139.6918098,
+    "is_24h": true
+  },
+  {
+    "id": "node_1785869610",
+    "type": "convenience_store",
+    "name": "ファミリーマート",
+    "lat": 35.7912832,
+    "lon": 139.6922899,
+    "is_24h": true
+  },
+  {
+    "id": "node_1986256667",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.7974502,
+    "lon": 139.7241621,
+    "is_24h": true
+  },
+  {
+    "id": "node_1986262446",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8034123,
+    "lon": 139.7364176,
+    "is_24h": true
+  },
+  {
+    "id": "node_1986263915",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8120917,
+    "lon": 139.7377763,
+    "is_24h": true
+  },
+  {
+    "id": "node_1986266536",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8173303,
+    "lon": 139.735448,
+    "is_24h": true
+  },
+  {
+    "id": "node_1986266922",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.817482,
+    "lon": 139.7292824,
+    "is_24h": true
+  },
+  {
+    "id": "node_1987815519",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8003268,
+    "lon": 139.7161419,
+    "is_24h": true
+  },
+  {
+    "id": "node_1987818325",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8066669,
+    "lon": 139.7195104,
+    "is_24h": true
+  },
+  {
+    "id": "node_1987818870",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8021052,
+    "lon": 139.7137225,
+    "is_24h": true
+  },
+  {
+    "id": "node_1987835986",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.7991793,
+    "lon": 139.7075034,
+    "is_24h": true
+  },
+  {
+    "id": "node_1987838665",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8116165,
+    "lon": 139.7141417,
+    "is_24h": true
+  },
+  {
+    "id": "node_1987842295",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8160629,
+    "lon": 139.7056221,
+    "is_24h": true
+  },
+  {
+    "id": "node_1988490976",
+    "type": "convenience_store",
+    "name": "ファミリーマート",
+    "lat": 35.7911132,
+    "lon": 139.7505085,
+    "is_24h": true
+  },
+  {
+    "id": "node_1989833973",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.7911699,
+    "lon": 139.6936994,
+    "is_24h": true
+  },
+  {
+    "id": "node_1990113056",
+    "type": "convenience_store",
+    "name": "ファミリーマート",
+    "lat": 35.8037151,
+    "lon": 139.759298,
+    "is_24h": true
+  },
+  {
+    "id": "node_1990113057",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8034786,
+    "lon": 139.7582486,
+    "is_24h": true
+  },
+  {
+    "id": "node_1990113062",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8016788,
+    "lon": 139.7608111,
+    "is_24h": true
+  },
+  {
+    "id": "node_1990118004",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8094838,
+    "lon": 139.7553554,
+    "is_24h": true
+  },
+  {
+    "id": "node_1990131292",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.7995873,
+    "lon": 139.7503548,
+    "is_24h": true
+  },
+  {
+    "id": "node_1994431684",
+    "type": "convenience_store",
+    "name": "ローソン",
+    "lat": 35.8148217,
+    "lon": 139.7035253,
+    "is_24h": true
+  },
+  {
+    "id": "node_1997841036",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8156849,
+    "lon": 139.7013,
+    "is_24h": true
+  },
+  {
+    "id": "node_1997856315",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8145126,
+    "lon": 139.6952656,
+    "is_24h": true
+  },
+  {
+    "id": "node_2402060986",
+    "type": "convenience_store",
+    "name": "ローソン",
+    "lat": 35.8162639,
+    "lon": 139.7046608,
+    "is_24h": true
+  },
+  {
+    "id": "node_2582682665",
+    "type": "convenience_store",
+    "name": "ローソンストア100",
+    "lat": 35.8126864,
+    "lon": 139.6950784,
+    "is_24h": true
+  },
+  {
+    "id": "node_2670191219",
+    "type": "station",
+    "name": "川口",
+    "lat": 35.8019257,
+    "lon": 139.7175116
+  },
+  {
+    "id": "node_2702189932",
+    "type": "toilet",
+    "name": "公衆トイレ",
+    "lat": 35.7924971,
+    "lon": 139.6916554
+  },
+  {
+    "id": "node_3547330605",
+    "type": "station",
+    "name": "西川口",
+    "lat": 35.8155833,
+    "lon": 139.7044816
+  },
+  {
+    "id": "node_3781775250",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8100338,
+    "lon": 139.7608334,
+    "is_24h": true
+  },
+  {
+    "id": "node_3790365290",
+    "type": "convenience_store",
+    "name": "ファミリーマート",
+    "lat": 35.8024177,
+    "lon": 139.72457,
+    "is_24h": true
+  },
+  {
+    "id": "node_3790370396",
+    "type": "convenience_store",
+    "name": "ローソン",
+    "lat": 35.801083,
+    "lon": 139.735304,
+    "is_24h": true
+  },
+  {
+    "id": "node_3908045447",
+    "type": "convenience_store",
+    "name": "ローソン",
+    "lat": 35.8225668,
+    "lon": 139.7383873,
+    "is_24h": true
+  },
+  {
+    "id": "node_4193547571",
+    "type": "convenience_store",
+    "name": "ファミリーマート",
+    "lat": 35.7968407,
+    "lon": 139.7211965,
+    "is_24h": true
+  },
+  {
+    "id": "node_5695828121",
+    "type": "toilet",
+    "name": "公衆トイレ",
+    "lat": 35.8082314,
+    "lon": 139.760141
+  },
+  {
+    "id": "node_5720412975",
+    "type": "convenience_store",
+    "name": "FamilyMart",
+    "lat": 35.7951059,
+    "lon": 139.7546052,
+    "is_24h": true
+  },
+  {
+    "id": "node_5720413364",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.7944094,
+    "lon": 139.7481477,
+    "is_24h": true
+  },
+  {
+    "id": "node_5720413381",
+    "type": "convenience_store",
+    "name": "Lawson",
+    "lat": 35.7943191,
+    "lon": 139.7443911,
+    "is_24h": true
+  },
+  {
+    "id": "node_5730624472",
+    "type": "convenience_store",
+    "name": "FamilyMart",
+    "lat": 35.8048188,
+    "lon": 139.7356636,
+    "is_24h": true
+  },
+  {
+    "id": "node_5730629177",
+    "type": "convenience_store",
+    "name": "FamilyMart",
+    "lat": 35.8154876,
+    "lon": 139.7394815,
+    "is_24h": true
+  },
+  {
+    "id": "node_5730629358",
+    "type": "convenience_store",
+    "name": "LAWSON Three-F",
+    "lat": 35.8106154,
+    "lon": 139.7431289,
+    "is_24h": true
+  },
+  {
+    "id": "node_5730698348",
+    "type": "convenience_store",
+    "name": "Lawson",
+    "lat": 35.7984685,
+    "lon": 139.7504646,
+    "is_24h": true
+  },
+  {
+    "id": "node_6018430385",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8093179,
+    "lon": 139.6922289,
+    "is_24h": true
+  },
+  {
+    "id": "node_6409591996",
+    "type": "convenience_store",
+    "name": "ファミリーマート",
+    "lat": 35.8167748,
+    "lon": 139.7053353,
+    "is_24h": true
+  },
+  {
+    "id": "node_6409591997",
+    "type": "convenience_store",
+    "name": "ローソンストア100",
+    "lat": 35.8175606,
+    "lon": 139.7066381,
+    "is_24h": true
+  },
+  {
+    "id": "node_6409591998",
+    "type": "toilet",
+    "name": "公衆トイレ",
+    "lat": 35.8158328,
+    "lon": 139.7042696
+  },
+  {
+    "id": "node_6409592002",
+    "type": "toilet",
+    "name": "公衆トイレ",
+    "lat": 35.8157005,
+    "lon": 139.7045709
+  },
+  {
+    "id": "node_6409592009",
+    "type": "convenience_store",
+    "name": "中華食品",
+    "lat": 35.8170612,
+    "lon": 139.7058711,
+    "is_24h": true
+  },
+  {
+    "id": "node_6409592011",
+    "type": "convenience_store",
+    "name": "Sawamitsu",
+    "lat": 35.8157522,
+    "lon": 139.7045714,
+    "is_24h": true
+  },
+  {
+    "id": "node_6409592012",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8174114,
+    "lon": 139.7064509,
+    "is_24h": true
+  },
+  {
+    "id": "node_6409592019",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.818922,
+    "lon": 139.7077016,
+    "is_24h": true
+  },
+  {
+    "id": "node_6409592022",
+    "type": "toilet",
+    "name": "公衆トイレ",
+    "lat": 35.818448,
+    "lon": 139.7063446
+  },
+  {
+    "id": "node_6478251785",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8155207,
+    "lon": 139.7209547,
+    "is_24h": true
+  },
+  {
+    "id": "node_6574751491",
+    "type": "convenience_store",
+    "name": "セブンイレブン川口西川口2丁目店",
+    "lat": 35.8113462,
+    "lon": 139.7020697,
+    "is_24h": true
+  },
+  {
+    "id": "node_6610108185",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.820853,
+    "lon": 139.7208616,
+    "is_24h": true
+  },
+  {
+    "id": "node_7777248385",
+    "type": "station",
+    "name": "川口元郷",
+    "lat": 35.8001212,
+    "lon": 139.7300045
+  },
+  {
+    "id": "node_7777259889",
+    "type": "station",
+    "name": "南鳩ヶ谷",
+    "lat": 35.8161232,
+    "lon": 139.7361213
+  },
+  {
+    "id": "node_8492123632",
+    "type": "convenience_store",
+    "name": "ファミリーマート",
+    "lat": 35.8033779,
+    "lon": 139.7178485,
+    "is_24h": true
+  },
+  {
+    "id": "node_8492123635",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8039384,
+    "lon": 139.7185701,
+    "is_24h": true
+  },
+  {
+    "id": "node_8518288580",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8141612,
+    "lon": 139.7086472,
+    "is_24h": true
+  },
+  {
+    "id": "node_8518353533",
+    "type": "convenience_store",
+    "name": "ローソン",
+    "lat": 35.816348,
+    "lon": 139.7134727,
+    "is_24h": true
+  },
+  {
+    "id": "node_8518353565",
+    "type": "convenience_store",
+    "name": "ファミリーマート",
+    "lat": 35.8168836,
+    "lon": 139.7062392,
+    "is_24h": true
+  },
+  {
+    "id": "node_8518353581",
+    "type": "convenience_store",
+    "name": "セブンイレブン蕨塚越5丁目店",
+    "lat": 35.8203911,
+    "lon": 139.7034248,
+    "is_24h": true
+  },
+  {
+    "id": "node_8541517224",
+    "type": "convenience_store",
+    "name": "ローソン",
+    "lat": 35.8067223,
+    "lon": 139.6960956,
+    "is_24h": true
+  },
+  {
+    "id": "node_8541517230",
+    "type": "convenience_store",
+    "name": "ファミリーマート",
+    "lat": 35.8067735,
+    "lon": 139.6978643,
+    "is_24h": true
+  },
+  {
+    "id": "node_8541517281",
+    "type": "convenience_store",
+    "name": "ローソン",
+    "lat": 35.8091971,
+    "lon": 139.7021527,
+    "is_24h": true
+  },
+  {
+    "id": "node_8541517311",
+    "type": "convenience_store",
+    "name": "ファミリーマート",
+    "lat": 35.8136969,
+    "lon": 139.7026568,
+    "is_24h": true
+  },
+  {
+    "id": "node_8541526524",
+    "type": "convenience_store",
+    "name": "ローソンストア100",
+    "lat": 35.8156351,
+    "lon": 139.7009257,
+    "is_24h": true
+  },
+  {
+    "id": "node_8590288892",
+    "type": "convenience_store",
+    "name": "ローソン・スリーエフ",
+    "lat": 35.8022508,
+    "lon": 139.711175,
+    "is_24h": true
+  },
+  {
+    "id": "node_8590289090",
+    "type": "convenience_store",
+    "name": "ファミリーマート川口中青木五丁目店",
+    "lat": 35.8185133,
+    "lon": 139.717619,
+    "is_24h": true
+  },
+  {
+    "id": "node_8615672231",
+    "type": "convenience_store",
+    "name": "ローソン",
+    "lat": 35.8044087,
+    "lon": 139.7097669,
+    "is_24h": true
+  },
+  {
+    "id": "node_8615672263",
+    "type": "convenience_store",
+    "name": "ファミリーマート",
+    "lat": 35.80868,
+    "lon": 139.707652,
+    "is_24h": true
+  },
+  {
+    "id": "node_8662874039",
+    "type": "convenience_store",
+    "name": "ローソン",
+    "lat": 35.8130727,
+    "lon": 139.7154003,
+    "is_24h": true
+  },
+  {
+    "id": "node_8662906012",
+    "type": "convenience_store",
+    "name": "ファミリーマート川口青木町公園前店",
+    "lat": 35.8216646,
+    "lon": 139.709272,
+    "is_24h": true
+  },
+  {
+    "id": "node_8691249479",
+    "type": "convenience_store",
+    "name": "ファミリーマート",
+    "lat": 35.8213686,
+    "lon": 139.7374241,
+    "is_24h": true
+  },
+  {
+    "id": "node_8699194857",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8116137,
+    "lon": 139.7255852,
+    "is_24h": true
+  },
+  {
+    "id": "node_8699194864",
+    "type": "convenience_store",
+    "name": "ローソン",
+    "lat": 35.8126135,
+    "lon": 139.7241947,
+    "is_24h": true
+  },
+  {
+    "id": "node_9440460169",
+    "type": "convenience_store",
+    "name": "ローソン川口末広三丁目店",
+    "lat": 35.8039468,
+    "lon": 139.7435124,
+    "is_24h": true
+  },
+  {
+    "id": "node_9440460184",
+    "type": "convenience_store",
+    "name": "セブンイレブン",
+    "lat": 35.8014566,
+    "lon": 139.7435627,
+    "is_24h": true
+  },
+  {
+    "id": "node_9440460194",
+    "type": "convenience_store",
+    "name": "セブンイレブン川口末広2丁目店",
+    "lat": 35.8071886,
+    "lon": 139.739569,
+    "is_24h": true
+  },
+  {
+    "id": "node_9440460197",
+    "type": "convenience_store",
+    "name": "ローソン",
+    "lat": 35.8039665,
+    "lon": 139.7284383,
+    "is_24h": true
+  },
+  {
+    "id": "node_9440460200",
+    "type": "convenience_store",
+    "name": "ローソンストア100",
+    "lat": 35.805106,
+    "lon": 139.7209187,
+    "is_24h": true
+  },
+  {
+    "id": "node_9441331742",
+    "type": "toilet",
+    "name": "公衆トイレ",
+    "lat": 35.8208738,
+    "lon": 139.7459429
+  },
+  {
+    "id": "node_9458686435",
+    "type": "convenience_store",
+    "name": "ファミリーマート",
+    "lat": 35.8050433,
+    "lon": 139.7157528,
+    "is_24h": true
+  },
+  {
+    "id": "node_9458686462",
+    "type": "toilet",
+    "name": "公衆トイレ",
+    "lat": 35.8072642,
+    "lon": 139.7160556
+  },
+  {
+    "id": "node_9458686479",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8099581,
+    "lon": 139.7158031,
+    "is_24h": true
+  },
+  {
+    "id": "node_9483819151",
+    "type": "convenience_store",
+    "name": "セブンイレブン川口元郷店",
+    "lat": 35.7977482,
+    "lon": 139.7373482,
+    "is_24h": true
+  },
+  {
+    "id": "node_9483819155",
+    "type": "convenience_store",
+    "name": "ファミリーマート川口朝日店",
+    "lat": 35.805758,
+    "lon": 139.7486071,
+    "is_24h": true
+  },
+  {
+    "id": "node_9483819156",
+    "type": "convenience_store",
+    "name": "ローソン川口南平交通公園通店",
+    "lat": 35.8050416,
+    "lon": 139.748716,
+    "is_24h": true
+  },
+  {
+    "id": "node_9484053826",
+    "type": "convenience_store",
+    "name": "ローソン",
+    "lat": 35.8179042,
+    "lon": 139.734085,
+    "is_24h": true
+  },
+  {
+    "id": "node_9520317126",
+    "type": "convenience_store",
+    "name": "ファミリーマート川口弥平四丁目店",
+    "lat": 35.7994597,
+    "lon": 139.7540465,
+    "is_24h": true
+  },
+  {
+    "id": "node_9561134155",
+    "type": "convenience_store",
+    "name": "ファミリーマート鳩ヶ谷八幡木店",
+    "lat": 35.8182061,
+    "lon": 139.7473024,
+    "is_24h": true
+  },
+  {
+    "id": "node_9561134161",
+    "type": "convenience_store",
+    "name": "ファミリーマート",
+    "lat": 35.8197932,
+    "lon": 139.7437715,
+    "is_24h": true
+  },
+  {
+    "id": "node_10059255857",
+    "type": "convenience_store",
+    "name": "ファミリーマート川口朝日三丁目店",
+    "lat": 35.812163,
+    "lon": 139.7357806,
+    "is_24h": true
+  },
+  {
+    "id": "node_10059255889",
+    "type": "convenience_store",
+    "name": "ローソン川口弥平二丁目店",
+    "lat": 35.8028528,
+    "lon": 139.7478542,
+    "is_24h": true
+  },
+  {
+    "id": "node_10067377098",
+    "type": "convenience_store",
+    "name": "ミニストップ",
+    "lat": 35.823197,
+    "lon": 139.7174756,
+    "is_24h": true
+  },
+  {
+    "id": "node_10267857009",
+    "type": "toilet",
+    "name": "公衆トイレ",
+    "lat": 35.8197882,
+    "lon": 139.7090501
+  },
+  {
+    "id": "node_11132287602",
+    "type": "convenience_store",
+    "name": "ファミリーマート",
+    "lat": 35.8070808,
+    "lon": 139.7249461,
+    "is_24h": true
+  },
+  {
+    "id": "node_12848321654",
+    "type": "convenience_store",
+    "name": "セブン-イレブン",
+    "lat": 35.8011362,
+    "lon": 139.7188272,
+    "is_24h": true
+  },
+  {
+    "id": "node_12848327580",
+    "type": "convenience_store",
+    "name": "NewDays",
+    "lat": 35.8020569,
+    "lon": 139.7176775,
+    "is_24h": true
+  },
+  {
+    "id": "node_12848330800",
+    "type": "convenience_store",
+    "name": "ローソン",
+    "lat": 35.803506,
+    "lon": 139.7202468,
+    "is_24h": true
+  },
+  {
+    "id": "node_12848338221",
+    "type": "convenience_store",
+    "name": "NewDays",
+    "lat": 35.8019134,
+    "lon": 139.7178103,
+    "is_24h": true
+  }
+]
