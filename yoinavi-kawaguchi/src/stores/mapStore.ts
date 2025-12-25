@@ -132,9 +132,9 @@ export const useMapStore = create<MapState>((set) => ({
   toggleCameras: () => set((state) => ({ showCameras: !state.showCameras })),
 
   // 3D表示
-  is3DMode: true,
+  is3DMode: false,
   toggle3DMode: () => set((state) => ({ is3DMode: !state.is3DMode })),
-  showBuildings: true,
+  showBuildings: false,
   toggleBuildings: () => set((state) => ({ showBuildings: !state.showBuildings })),
 
   // 時間帯シミュレーション
